@@ -34,5 +34,6 @@ create-dmg \
 --icon Flare.app 100 125 \
 --hide-extension Flare.app \
 --eula flare_dmg/COPYING \
+--disk-image-size 324 \
 ${FLARE_DMG} \
 flare_dmg/
